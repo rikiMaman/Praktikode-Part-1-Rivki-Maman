@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLYaZnbnN/EWsNXgj9DpnDlpO8Kqs5gj1RGh2rYYSJeiW8e57DQ2weZjDIXvF6gsBmvg9Suo7Fr8wUWS2gM+Yg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\אסתר\\Desktop\\אונקי תקול\\fib\\fib\\fib.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.CommandLine (>= 2.0.0-beta4.22272.1)' for 'net6.0'.",
+      "libraryId": "System.CommandLine",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
